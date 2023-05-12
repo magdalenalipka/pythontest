@@ -26,6 +26,7 @@
 - You are not allowed to interfere into **introduce** method code.
 
 ## Create something whilst learning something new
+
 For this task you will need your personal account in AWS. Please create one if you don't have it yet (do not worry about costs, everything you do here will covered by AWS Free Tier).
 
 - Create a REST API in AWS API Gateway.
@@ -36,3 +37,7 @@ For this task you will need your personal account in AWS. Please create one if y
 
 Please create a new GitLab/GitHub repository, upload your lambda code in there and share link to the repo with us.
 Repository should also contain a README.md with URLs to your API GET & POST methods and explanation about how to use them (exact paths, example body for POST method).
+
+## Programming
+
+You will find description of this task in [./programming_task/README.md](./programming_task/README.md) file.
